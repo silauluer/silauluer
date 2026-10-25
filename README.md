@@ -23,10 +23,7 @@ I'm interested in turning complex data into clear, useful insights while buildin
 
 ### Business Intelligence & Analytics
 
-<p>
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" height="34" />
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Microsoft Excel" height="34" />
-</p>
+**📊 Power BI** &nbsp; · &nbsp; **📗 Microsoft Excel**
 
 **Power BI · DAX · Power Query (M) · Excel**
 
