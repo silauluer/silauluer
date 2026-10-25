@@ -21,27 +21,49 @@ I'm interested in turning complex data into clear, useful insights while buildin
 
 ## Tech Stack
 
-**Programming & Data Analysis**
+### Business Intelligence & Analytics
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="36" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" height="36" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" height="36" />
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" height="34" />
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Microsoft Excel" height="34" />
 </p>
 
-Python · SQL · Pandas · NumPy · Excel
+**Power BI · DAX · Power Query (M) · Excel**
 
-**Business Intelligence & Visualization**
-
-Power BI · DAX · Matplotlib
-
-**Machine Learning**
+### Programming & Databases
 
 <p>
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="Scikit-learn" height="36" />
+  <img src="https://skillicons.dev/icons?i=python,java" alt="Python and Java" height="38" />
 </p>
 
-Scikit-learn
+**Python · SQL · Java**
+
+### Data Science & Machine Learning
+
+<p>
+  <img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" height="34" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" height="34" />
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="Scikit-learn" height="34" />
+</p>
+
+**Pandas · NumPy · Matplotlib · Scikit-learn**
+
+### Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" alt="HTML and CSS" height="38" />
+</p>
+
+**HTML · CSS**
+
+### Web Platforms & E-commerce
+
+<p>
+  <img src="https://cdn.simpleicons.org/shopify/7AB55C" alt="Shopify" height="34" />
+  <img src="https://cdn.simpleicons.org/wix/0C6EFC" alt="Wix" height="34" />
+</p>
+
+**Shopify · Wix**
 
 ## Current Focus
 
