@@ -1,60 +1,65 @@
-# Hi there, I'm Sıla Uluer! 👋
-
-### IT Graduate | Data Analyst Intern | Aspiring Data Scientist
-
-I'm an IT graduate currently gaining hands-on experience as a **Data Analyst Intern**, with a focus on **Power BI, data analysis, and business intelligence**.
-
-I'm passionate about **Artificial Intelligence, Machine Learning, and Data Science**, and I'm continuously developing my technical and analytical skills.
-
-I enjoy exploring data, identifying meaningful patterns, and turning complex information into clear, actionable insights.
+<h1 align="center">Hi, I'm Sıla Uluer 👋</h1>
+<p align="center">
+  <strong>Data Analyst Intern · Aspiring Data Scientist · AI Enthusiast</strong>
+</p>
+<p align="center">
+  <a href="https://github.com/silauluer">GitHub Profile</a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+## About Me
+
+I'm an **IT graduate** currently gaining practical experience as a **Data Analyst Intern**, focusing on **Power BI, data analysis, and business intelligence**.
+
+I'm interested in turning complex data into clear, useful insights while building my skills in **Data Science, Machine Learning, and Artificial Intelligence**.
+
+- 📊 **Currently:** Gaining hands-on experience in data analytics and Power BI
+- 🧠 **Interested in:** Machine learning, predictive analytics, and AI
+- 🌱 **Developing:** Stronger data analysis, visualization, and problem-solving skills
+- 🎯 **Goal:** Grow into a Data Scientist who connects technical analysis with real-world impact
+
+## Tech Stack
 
 **Programming & Data Analysis**
-- Python
-- SQL
-- Pandas
-- NumPy
-- Excel
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="36" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" height="36" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" height="36" />
+</p>
+
+Python · SQL · Pandas · NumPy · Excel
 
 **Business Intelligence & Visualization**
-- Power BI
-- DAX
-- Matplotlib
+
+Power BI · DAX · Matplotlib
 
 **Machine Learning**
-- Scikit-learn
 
-### 🌱 Currently Learning & Growing
+<p>
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="Scikit-learn" height="36" />
+</p>
 
-- Strengthening my data analysis and visualization skills
-- Exploring machine learning techniques and applications
-- Developing my knowledge of AI and Data Science
-- Improving my ability to communicate data-driven insights
+Scikit-learn
 
-### 🎯 Career Goals
+## Current Focus
 
-My goal is to build a career in **Data Science and Artificial Intelligence**, combining my IT background with practical experience in data analytics and business intelligence.
+- Data cleaning and exploratory data analysis (EDA)
+- Building insightful Power BI dashboards
+- Communicating findings through data visualization
+- Exploring machine learning fundamentals and practical applications
 
-I'm particularly interested in applying data-driven methods and machine learning to solve real-world problems.
+## Portfolio
 
-### 📂 Portfolio Development
+I'm building a portfolio of hands-on projects in **data analytics, business intelligence, and machine learning**. I'll share projects here as I complete them, including the problem, tools, approach, and results.
 
-I'm currently building my project portfolio to document my learning journey and demonstrate my practical skills in:
+*Projects coming soon.*
 
-- Data Analysis & Exploratory Data Analysis (EDA)
-- Power BI Dashboards & Business Intelligence
-- SQL Data Analysis
-- Machine Learning with Python
+## Connect
 
-Projects and documentation will be added as they are completed.
-
-### 📫 Connect With Me
-
-- **GitHub:** [silauluer](https://github.com/silauluer)
+- **GitHub:** [@silauluer](https://github.com/silauluer)
 
 ---
 
-*Always learning, exploring, and growing in the world of data and AI.* 🚀
+<p align="center"><em>Turning data into insights, one project at a time.</em></p>
